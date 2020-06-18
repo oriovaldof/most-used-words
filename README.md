@@ -7,4 +7,4 @@ Utilizando como base o curso Aplicação Desktop com JavaScript, Electron JS e V
      - cd most-used-words
      - npm install
 ## Executar o Projeto
-    - electron:serve
+    - npm run electron:serve
